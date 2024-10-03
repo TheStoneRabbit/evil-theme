@@ -1,0 +1,27 @@
+{
+	"name": "redWhiteGreyBlack-theme",
+	"displayName": "RedWhiteGreyBlack Theme",
+	"publisher": "TheStoneRabbit",
+	"version": "1.0.3",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "RedWhiteGreyBlack",
+				"uiTheme": "vs-dark",
+				"path": "./themes/redWhiteGreyBlack-color-theme.json"
+			}
+		]
+	},
+	"dependencies": {
+		"vsce": "^2.15.0"
+	},
+	"__metadata": {
+		"isApplicationScoped": false,
+		"installedTimestamp": 1727903071009,
+		"pinned": true,
+		"source": "vsix"
+	}
+}
